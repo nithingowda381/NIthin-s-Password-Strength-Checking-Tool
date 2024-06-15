@@ -45,7 +45,7 @@ Password is strong enough. Exiting the tool.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-Nithin (Replace with your details)
+Nithin Gowda M S
 
 ---
 
